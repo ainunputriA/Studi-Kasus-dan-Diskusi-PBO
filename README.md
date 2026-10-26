@@ -3,12 +3,12 @@
 
 Program ini dibuat menggunakan Java untuk mempelajari konsep OOP.
 
+
 ## Class Diagram
 
 Class diagram berikut menunjukkan hubungan antara abstract class Kendaraan dengan class Mobil dan Motor.
 
-![Class Diagram Sistem Kendaraan]
-![alt text](class-diagram.png-1.png)
+![Class Diagram](class-diagram.png)
 
 ## Konsep OOP
 
